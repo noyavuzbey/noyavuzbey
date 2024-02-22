@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Saluting Everyone!</h1>
+<h1 style="text-align: center;"><b>Welcome</b></h1>
 <b style="text-align: center;">18-year-old entrepreneur from Turkey.</b><br><br>
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
