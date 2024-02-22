@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"><b>Nice to meet you</b></h1>
-<b>18-year-old, movie actor, entrepreneur, full-stack developer</b> from <b>Turkey.</b><br><br>
+<b>👉 18-year-old, movie actor, entrepreneur, full-stack developer</b> from <b>Turkey.</b><br><br>
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 
