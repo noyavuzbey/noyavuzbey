@@ -1,3 +1,8 @@
+<style>
+  body {
+    text-align: center;
+  }
+</style>
 <h1>Hey yo, It's Yavuz!</h1>
 <b>Oh hey there is futuristic cars and planes, out there baby</b><br><br>
 
