@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"><b>Welcome</b></h1>
-<b style="text-align: center;">18-year-old entrepreneur from Turkey.</b><br><br>
+<b style="text-align: center;"><b>18-year-old</b>, movie actor, entrepreneur, full-stack developer from <b>Turkey.</b><br><br>
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 
