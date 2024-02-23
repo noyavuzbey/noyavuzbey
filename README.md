@@ -2,6 +2,8 @@
 <h3>👉 I'm 18 Year-Old, Movie Actor, Entrepreneur, Full-Stack Developer From Turkey!</h3>
 
 <h3>👇 My Favorite Languages</h3>
+<br>
+
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 
