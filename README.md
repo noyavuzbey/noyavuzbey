@@ -7,5 +7,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noyavuzbey&layout=donut-vertical&title_color=ff0051&text_color=ffffff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noyavuzbey&layout=donut-vertical&title_color=ff0051&text_color=dfdfdf&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noyavuzbey&show_icons=true&theme=transparent&title_color=ff0051&text_color=dfdfdf)](https://github.com/anuraghazra/github-readme-stats)
