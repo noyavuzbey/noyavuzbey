@@ -1,4 +1,4 @@
-<h1><b>Welcome! ಥ_ಥ</b></h1>
+<h1><b>👿🦹 Welcome! ಥ_ಥ</b></h1>
 <h3>👉 I'm 18 Year-Old, Movie Actor, Entrepreneur, Full-Stack Developer From Turkey!</h3>
 
 <h3>👇 My Code Languages This I Use</h3>
